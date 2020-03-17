@@ -1,0 +1,26 @@
+{"message":401,"level":"error"}
+{"message":401,"level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /user","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Card with id 2 not found","level":"error"}
+{"message":"Unauthorized request to path: /list","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Card with id 97ecc459-1981-4d53-806d-1bc739b88fb1 created","level":"info"}
+{"message":"Content is required","level":"error"}
+{"message":"Card with id 0d8cf413-1544-4848-b1de-ac9cbbed79e9 created","level":"info"}
+{"message":"Unauthorized request to path: /card/0d8cf413-1544-4848-b1de-ac9cbbed79e9","level":"error"}
+{"message":"Unauthorized request to path: /list","level":"error"}
+{"message":"List with id 30865d84-1a51-4f5a-a0e3-202090d8f1d3 created","level":"info"}
